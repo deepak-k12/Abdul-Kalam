@@ -1,0 +1,101 @@
+.red{
+    color : white;
+    background-color : rgb(37, 107, 238);
+}
+#home{
+    background-color : white;
+    color: black;
+}
+.link{
+    text-decoration : none;
+}
+.top{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.bar {
+    width: 100%;
+    overflow: hidden;
+    font-family: Montserrat;
+
+}
+.padding-link{
+    padding: 12px 24px;
+}
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.nav-font-size{
+    font-size: 25px;
+}
+.font30{
+    font-size: 30px;
+}
+.font-weight-400{
+    font-weight: 400;
+}
+.header-padng{
+    padding: 128px 16px;
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-family: Montserrat;
+    font-size: 64px;
+}
+.bg-btn{
+    color: white;
+    background-color: #ff4700;
+    margin-top: 16px;
+    border: none;
+}
+.font-besley{
+    font-family: 'Besley', serif;
+    font-size: medium;
+}
+.main-grid-padng{
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.center-align{
+    max-width: 1000px;
+}
+.left-66{
+    width: 66%;
+}
+.float-left{
+    float: left;
+}
+.right-33{
+    width: 34%;
+}
+.center{
+    text-align: center;
+}
+.img-50{
+    height: 50%;
+    width: 50%;
+}
+.bg-early{
+    background-color: gray;
+}
+.float-right{
+    float: right;
+}
+.font-lobster{
+    font-family: 'Lobster', cursive;
+}
+.max-width{
+    max-width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.margin{
+    margin: 0;
+}
